@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# mac os
+.DS_Store
+
+# vscode
+settings.json
+
+# mole
+examples
+PHYSICAL_KEY
